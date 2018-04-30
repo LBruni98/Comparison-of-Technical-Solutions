@@ -2,6 +2,8 @@
 
 Technical solutions can be compared in a variety of ways. The reason for the comparison of these solutions is because that during development, problems will arise so but there are many solutions available for that problem, so each solution would have to be looked at in order to best determine which will work for the current problem. One common method of comparison is Effective analysis.
 
+Technical Solutions are compared in a variety of ways in order to see which one performs best to its purpose. This could be comparison to see what solution is the fastest or which is the most stable, also being compared against the user and system requirements to see if they’re compatible. This further allows the solutions to be compared and prioritised into the most and least effective when comparing other solutions.  
+
 ### Effective Analysis
 In Effective Analysis, the problem is used as a starting point, laying out the factors that should be addressed when looking into different solutions. For a product, there are set of non-functional qualities associated with it, which are safety, security, reliability, etc. whereas the functional qualities are along the lines of the system's purpose, to help understand the requirements in wider system contexts.
 
